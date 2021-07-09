@@ -1,4 +1,7 @@
-# flutter_application
+# Inifinite List App
+Rest API
+Data Model
+Bloc
 
 ## Structure
 - assets
